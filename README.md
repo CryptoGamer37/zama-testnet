@@ -2,3 +2,4 @@
 zama testnet live
 test number 1 guild task
 cryptogamer x zama
+join guild
